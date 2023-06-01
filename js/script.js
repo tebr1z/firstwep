@@ -11,7 +11,11 @@ window.addEventListener('scroll', function () {
   const navbarLogin4 = document.querySelector('.login-div i:nth-child(4) ')
   const NavbarLogin991px1 = document.querySelector('.navbar-login-991px i:nth-child(1)')
   const NavbarLogin991px2 = document.querySelector('.navbar-login-991px i:nth-child(2)')
-  if (scrollTop > 0) {
+  if (scrollTop > 0)
+  
+  
+  //
+  {
     navbar.classList.add('fixed');
     navbarLinks.classList.add('navbar-links-color')
     navbar.style.position = 'fixed'
