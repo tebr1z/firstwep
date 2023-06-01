@@ -19,6 +19,7 @@ window.addEventListener('scroll', function () {
       navbar.style.width = '100%'
       navbar.style.zIndex = "1000"
       navbarLogo1.style.display = 'none'
+      // 
       navbarLogo2.style.display = 'block'
       navbarLogoSpan.style.color = 'black'
       navbarLogin1.style.color = 'black'
