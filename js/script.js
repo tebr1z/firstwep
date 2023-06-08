@@ -14,7 +14,7 @@ window.addEventListener('scroll', function () {
   if (scrollTop > 0)
   
   
-  //Added //js //jquer //jue //vuejs //jsxx
+  //Added //js //jquer //jue //vuejs //jsxx //jsa
   {
     navbar.classList.add('fixed');
     navbarLinks.classList.add('navbar-links-color')
